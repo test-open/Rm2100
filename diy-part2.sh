@@ -40,14 +40,6 @@ sed -i '$a msgstr "启用"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.
 sed -i '$a \\' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgid "Apply"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgstr "启用"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-#sed -i '$a msgid "Storage usage"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-#sed -i '$a msgstr "存储容量"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgid "Storage"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgstr "存储容量"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgid "Disk space"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgstr "可用存储"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgid "Temp space"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgstr "暂存空间"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 #创建指向
 ln -s feeds/kenzo/luci-app-vssr/po/zh-cn feeds/kenzo/luci-app-vssr/po/zh_Hans
 ln -s feeds/kenzo/luci-app-passwall/po/zh-cn feeds/kenzo/luci-app-passwall/po/zh_Hans
