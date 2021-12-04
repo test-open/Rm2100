@@ -40,7 +40,9 @@ sed -i '$a msgstr "启用"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.
 sed -i '$a \\' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgid "Apply"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgstr "启用"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
-sed -i '$a msgid "Storage usage"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
+#sed -i '$a msgid "Storage usage"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
+#sed -i '$a msgstr "存储容量"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
+sed -i '$a msgid "Storage"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgstr "存储容量"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgid "Disk space"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
 sed -i '$a msgstr "可用存储"' package/diy/luci-app-ramfree/po/zh_Hans/release_ram.po
