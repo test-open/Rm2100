@@ -32,6 +32,6 @@ svn co https://github.com/garypang13/openwrt-packages/trunk/luci-app-accesscontr
 svn co https://github.com/garypang13/openwrt-packages/trunk/luci-app-autoreboot package/diy/luci-app-autoreboot
 svn co https://github.com/garypang13/openwrt-packages/trunk/luci-app-socat package/diy/luci-app-socat
 svn co https://github.com/garypang13/openwrt-packages/trunk/luci-app-ramfree package/diy/luci-app-ramfree
-svn co https://github.com/garypang13/openwrt-packages/trunk/ddns-scripts-aliyun package/diy/ddns-scripts-aliyun
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-aliyun package/diy/ddns-scripts-aliyun
 #git clone https://github.com/small-5/ddns-scripts-dnspod package/diy/ddns-scripts-dnspod
-svn co https://github.com/garypang13/openwrt-packages/trunk/ddns-scripts_dnspod package/diy/ddns-scripts_dnspod
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-dnspod package/diy/ddns-scripts_dnspod
